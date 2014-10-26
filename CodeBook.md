@@ -1,4 +1,4 @@
-ID Fields
+﻿ID Fields
 ---------
 subject - The subject ID
 activity - The label of the activity performed when the corresponding measurements were taken
